@@ -1,0 +1,27 @@
+{
+  "character": "Nora Ferraz",
+  "type": "LoRA",
+  "base_model": "Krea 2",
+  "page": "https://civitai.com/models/3028183",
+  "model_id": 3028183,
+  "version_id": 3439455,
+  "file": "noraFerraz_v1.safetensors",
+  "autov2": "2FF251D1EA",
+  "trigger": "norasint",
+  "weight": 1.0,
+  "tested_on": {
+    "checkpoint": "Krea 2 Turbo",
+    "steps": 10,
+    "cfg": 1,
+    "sampler": "Euler",
+    "scheduler": "Simple",
+    "size": "1024x1280",
+    "seed": 101
+  },
+  "notes": [
+    "The hair and the mole come on their own. The sunglasses don't: ask for them.",
+    "Ask for the expression. Without one, you get her work face.",
+    "Neon, shop signs and book covers can spell the trigger. Write the text you want there.",
+    "In a crowd, people behind her can end up with her hair and her dress. Describe who else is there."
+  ]
+}
